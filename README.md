@@ -1,4 +1,3 @@
-const readmeContent: string = `
 # MERN Book Search with GraphQL
 
 This repository contains a full-stack web application built with the MERN stack (MongoDB, Express.js, React.js, Node.js) along with GraphQL. It allows users to search for books, view details, and save their favorite books to a reading list.
@@ -103,6 +102,4 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-`;
 
-console.log(readmeContent);
