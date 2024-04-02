@@ -1,5 +1,6 @@
 import React from 'react';
 import { useQuery, useMutation } from '@apollo/client';
+import { Container, Row, Col, Card, Button } from 'react-bootstrap';
 import { GET_ME, REMOVE_BOOK } from './queries';
 
 const SavedBooks = () => {
