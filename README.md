@@ -11,8 +11,6 @@ This repository contains a full-stack web application built with the MERN stack 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Technologies](#technologies)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -94,12 +92,4 @@ This project is built with the following technologies:
 - React.js
 - Node.js
 - GraphQL
-
-## Contributing
-
-Contributions are welcome! If you find any issues or have suggestions for improvement, please open an issue or create a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
